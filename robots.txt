@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-pyyhmk.cblox.com.br/sitemap.xml
